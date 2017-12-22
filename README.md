@@ -1,4 +1,4 @@
-# create-file-script-demo
+# bash-create-file-script-demo
 
 
 ## 使用说明
