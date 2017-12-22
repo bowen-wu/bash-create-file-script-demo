@@ -1,7 +1,7 @@
 # bash-create-file-script-demo
 
 
-##实现功能
+## 实现功能
 
 1.`sh demo.js fileName01`可生成目录 fileName01,`sh demo.js fileName02`可生成目录 fileName02.
 
